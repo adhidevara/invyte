@@ -24,10 +24,10 @@
     "tailwind-merge": "^3.2.0"
   },
   "devDependencies": {
-    "@types/react": "^19.1.0",
+    "@types/react": "^19.2.15",
     "react": "^19.1.0",
     "tailwindcss": "^4.1.4",
-    "typescript": "^5.7.3"
+    "typescript": "^6.0.3"
   },
   "peerDependencies": {
     "react": ">=19",

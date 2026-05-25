@@ -11,5 +11,5 @@
     "@anthropic-ai/sdk": "^0.39.0",
     "@google/generative-ai": "^0.24.0"
   },
-  "devDependencies": { "typescript": "^5.0.0" }
+  "devDependencies": { "typescript": "^6.0.3" }
 }
