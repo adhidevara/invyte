@@ -15,10 +15,10 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "drizzle-orm": "^0.41.0",
+    "drizzle-orm": "^0.45.2",
     "postgres": "^3.4.5",
-    "nanoid": "^5.1.5",
-    "zod": "^3.24.2"
+    "nanoid": "^5.1.15",
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "drizzle-kit": "^0.31.0",
